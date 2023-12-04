@@ -10,5 +10,6 @@ public class JenkinsPracticeApplication {
         SpringApplication.run(JenkinsPracticeApplication.class, args);
 
         System.out.println("Hello from Jenkins practice application!");
+        System.out.println("New line to test github connection");
     }
 }
